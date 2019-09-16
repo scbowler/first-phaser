@@ -1,0 +1,22 @@
+{
+  "name": "star_child",
+  "version": "1.0.0",
+  "description": "Collect stars and watch out for bombs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scbowler/first-phaser.git"
+  },
+  "author": "Scott Bowler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scbowler/first-phaser/issues"
+  },
+  "homepage": "https://github.com/scbowler/first-phaser#readme",
+  "dependencies": {
+    "phaser": "^3.19.0"
+  }
+}
